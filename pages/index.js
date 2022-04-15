@@ -97,7 +97,7 @@ const Page = () => {
           </BioSection>
           <BioSection>
               <BioYear>2020 to present</BioYear>
-              Took admission in Mitra Mandal's College of Engineering(MMCOE)
+              Took admission in Mitra Mandal&apos;s College of Engineering(MMCOE)
               to study engineering,<br></br>and then the incredible journey of coding started.
           </BioSection>
       </Section>

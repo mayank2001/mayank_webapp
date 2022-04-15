@@ -13,11 +13,9 @@ import {
   MenuButton,
   IconButton,
   useColorModeValue,
-  Icon
 } from '@chakra-ui/react'
 import { HamburgerIcon } from '@chakra-ui/icons'
 import ThemeToggleButton from './theme-toggle-button'
-import ContactComponent from "../pages/ContactComponent"
 
 const LinkItem = ({ href, path, _target, children, ...props }) => {
   const active = path === href
